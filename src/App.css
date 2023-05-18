@@ -1,0 +1,27 @@
+.App {
+  position: relative;
+  /* Add other necessary styles for your App container */
+}
+
+.modal {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.modalContent {
+  /* Add styles for the modal content */
+}
+
+.closeModalBtn {
+  margin-top: 10px;
+}
+.openModalBtn{
+  position: fixed;
+  bottom: 50px;
+  right: 20px;
+}
